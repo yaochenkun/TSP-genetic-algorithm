@@ -1,5 +1,5 @@
-# GeneticAlgorithm
-An implementation of TSP by Genetic Algorithm in Java.
+# TSP-GeneticAlgorithm
+An implementation of TSP(Traveling Salesman Problem) by Genetic Algorithm in Java.
 ## Details
 * Solve TSP in Java.
 * Adopt Object-Oriented.
