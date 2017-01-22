@@ -2,10 +2,10 @@
 An implementation of TSP by Genetic Algorithm in Java.
 ## Details
 * Use Object-Oriented to implement.
-* Divide this algorithm into four Classes: GeneticAlgorithm, SpeciesNode, List<SpeciesNode> and Constant.
+* Divide this algorithm into four Classes: GeneticAlgorithm, SpeciesNode, SpeciesNodeList and Constant.
 * GeneticAlgorithm: controls the whole algorithm's life cycle and do some genetic operation including select, cross, mutate.
 * SpeciesNode: contains the sequence of gene, the length of route and fitness of this species.
-* List<SpeciesNode>: represents a list(group) of species
+* SpeciesNodeList: represents a list(group) of species
 * Constant: contains the data of map, the max length of every group of species, the max number of generations, the probability of cross, mutate and so on.
 ## For More
 If you want to learn more information about this implementation, please visit the following three sites(but a pity only in Chinese):
