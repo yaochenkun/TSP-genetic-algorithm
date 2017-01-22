@@ -1,8 +1,12 @@
 # GeneticAlgorithm
 An implementation of TSP by Genetic Algorithm in Java.
 ## Details
-* Use Object-Oriented to implement.
-* Divide this algorithm into four Classes: __GeneticAlgorithm__, __SpeciesNode__, __SpeciesNodeList__ and __Constant__.
+* Solve TSP in Java.
+* Adopt Object-Oriented.
+* Divide into 4 Classes: __GeneticAlgorithm__, __SpeciesNode__, __SpeciesNodeList__ and __Constant__.
+* Verify respectively in 3 different size of cities: 10 cities, 20 cities and 31 cities.
+
+## Classes
 * __GeneticAlgorithm__: controls the whole algorithm's life cycle and do some genetic operation including select, cross, mutate.
 * __SpeciesNode__: contains the sequence of gene, the length of route and fitness of this species.
 * __SpeciesNodeList__: represents a list(group) of species
