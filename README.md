@@ -14,6 +14,6 @@ An implementation of TSP(Traveling Salesman Problem) by Genetic Algorithm in Jav
 
 ## For More
 If you want to learn more information about this implementation, please visit the following three sites(but a pity only in Chinese):
-* [use Genetic Algorithm to solve TSP(1)-Summary](http://yaochenkun.cn/wordpress/index.php/2016/12/03/gene_article/)
-* [use Genetic Algorithm to solve TSP(2)-Genetic Operations](http://yaochenkun.cn/wordpress/index.php/2016/12/04/gene2_article/)
-* [use Genetic Algorithm to solve TSP(3)-Verification](http://yaochenkun.cn/wordpress/index.php/2016/12/05/generesult_article/)
+* [use Genetic Algorithm to solve TSP(1)-Summary](http://yaochenkun.cn/index.php/2016/12/03/gene_article/)
+* [use Genetic Algorithm to solve TSP(2)-Genetic Operations](http://yaochenkun.cn/index.php/2016/12/04/gene2_article/)
+* [use Genetic Algorithm to solve TSP(3)-Verification](http://yaochenkun.cn/index.php/2016/12/05/generesult_article/)
